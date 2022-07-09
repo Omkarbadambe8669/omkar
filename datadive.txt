@@ -1,0 +1,68 @@
+inferential statistics:
+
+descriptive data:
+ will give you summary of data ,on which you can do analysis with the help of python libraries and try to understand data
+ 
+ analysis: 1.you find suitable column for our projcts
+           2.data cleaning and (remove irrelevant data)
+		   3.data transform (datatype change, column name change)
+		   
+	at the end you got summary data after following above steps you got data which is ready for to apply ML algorithm
+		   
+ 
+ libraries:-pandas,numpy,matplotlib,seaborn,scipy
+ 
+ algorithm is a code or some principle which workson specific data and case studies. 
+ 
+ inferential statistics:(conclusion,result):
+ you applied on proccessed data machine learning,deep learning,nlp algorithm,timeseries algorithm 
+ 
+ what is algorithm?
+ it is series of steps to solve any problem
+ 
+ a= number
+ b=number2
+ c=a+b
+ print('addition of number:',c)
+ 
+ algorithm:
+ 1.accept 2 number
+ 2.apply sum logic on 2 value
+ 3.print the result
+ 
+ ml algorithm: 1.linear regression 2.logical regression 3.support vector machine 4.k nearest neighbor 5.k mean 6.neural network 7.random forest,dsion tree
+ 
+ Deep learning:
+ CNN              Timesreies          NLP
+ LSTM              ARIMA              NAIVE BAYES
+ RNN               LSTM                LSTM
+ 
+ Sampling:
+ 
+ population:Whole dataset
+ 
+ sample:- small % of data from specific dataset
+ 10000 population
+ 100 sample
+ 
+ sampling method: how you select data and analyse the data 
+ seed=42
+ data select randomly from set of data
+ 
+ sampling type:
+ a) probability sampling
+ b) non-probabilty sampling
+ 
+ A)probability sampling:1. simple random sampling 2.clutered sampling 3.systeamatic sampling,strafied sampling
+ 
+ B)non-probability sampling: 1. convenience sampling 2.consecutiv sampling 3.quota sampling 4.snowball sampling 5.purposive sampling
+
+Confidence interval:means variation in your expected estimetd result-variation in result when you redo
+CI :-range of value for unkown parameter
+bp=120/80
+bp=119/78
+ 
+ 
+ 
+ 
+ 
